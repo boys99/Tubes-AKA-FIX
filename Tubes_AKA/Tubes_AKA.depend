@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1734965353 source:d:\tubes_aka\source.cpp
+	"HEADER.h"
+	<iostream>
+
+1734965908 d:\tubes_aka\header.h
+	<string>
+
+1734965403 source:d:\tubes_aka\main.cpp
+	<iostream>
+	"HEADER.h"
+
